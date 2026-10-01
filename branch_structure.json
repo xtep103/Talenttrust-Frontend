@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "issue-1173-compatibility-contracts",
+    "issue-1177-error-boundary",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "issue-1173-compatibility-contracts": "main",
+    "issue-1177-error-boundary": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "issue-1173-compatibility-contracts",
+    "issue-1177-error-boundary",
+    "origin"
+  ]
+}
